@@ -1,0 +1,5 @@
+export enum JUMIO_REASON {
+  NO_INFO = 'NO_INFO',
+  UNDER_18 = 'UNDER_18',
+  SANCTIONED = 'SANCTIONED',
+}
